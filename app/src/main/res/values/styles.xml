@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.ConnectTest" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#123B66</item>
+        <item name="android:navigationBarColor">#F5F8FC</item>
+        <item name="android:windowBackground">#F5F8FC</item>
+        <item name="android:colorAccent">#B8C7D9</item>
+    </style>
+</resources>
